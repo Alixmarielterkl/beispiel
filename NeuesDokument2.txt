@@ -1,13 +1,11 @@
 hallo
-<<<<<<< HEAD
+
 hallo
 hier master
 was ist hier passiert?
-=======
 
 Blabklaanaj hier auch
 und hier?
 
 hallo
 
->>>>>>> Neue1
