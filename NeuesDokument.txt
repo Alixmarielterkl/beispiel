@@ -1,3 +1,6 @@
 Neues Dokument
+<<<<<<< HEAD
 was sollt das ich möchte was ändern
 was ist jetzt
+=======
+>>>>>>> master
