@@ -1,7 +1,7 @@
 hallo
-<<<<<<< HEAD
+
 Blabklaanaj hier auch
 und hier?
-=======
+
 hallo
->>>>>>> master
+
