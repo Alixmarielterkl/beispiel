@@ -1,2 +1,10 @@
 Neues Dokument
+<<<<<<< HEAD
 jetzt bin ich beim master
+=======
+
+was sollt das ich möchte was ändern
+was ist jetzt
+
+
+>>>>>>> Neue1
